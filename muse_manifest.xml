@@ -1,0 +1,129 @@
+<manifest alg="2" build="329" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="196023785"/>
+    <file name="master_a-master.css" crc="228384743" ref="index:contact:experience:about:volt:zaha-hadid:dpi:uk-vs-uw:nashua:tfa:logos:gnc:life-in-color"/>
+    <file name="index.css" crc="107674487" ref="index"/>
+    <file name="iefonts_index.css" crc="4235601418" ref="index"/>
+    <file name="contact.css" crc="4225406350" ref="contact"/>
+    <file name="iefonts_contact.css" crc="268075374" ref="contact"/>
+    <file name="experience.css" crc="3952777466" ref="experience"/>
+    <file name="iefonts_experience.css" crc="364523150" ref="experience"/>
+    <file name="about.css" crc="533164939" ref="about"/>
+    <file name="iefonts_about.css" crc="202919505" ref="about"/>
+    <file name="volt.css" crc="3859454790" ref="volt"/>
+    <file name="zaha-hadid.css" crc="106811327" ref="zaha-hadid"/>
+    <file name="iefonts_zaha-hadid.css" crc="179159636" ref="zaha-hadid"/>
+    <file name="dpi.css" crc="40588497" ref="dpi"/>
+    <file name="uk-vs-uw.css" crc="71059096" ref="uk-vs-uw"/>
+    <file name="iefonts_uk-vs-uw.css" crc="115995187" ref="uk-vs-uw"/>
+    <file name="nashua.css" crc="3988244324" ref="nashua"/>
+    <file name="iefonts_nashua.css" crc="448686639" ref="nashua"/>
+    <file name="tfa.css" crc="158729294" ref="tfa"/>
+    <file name="iefonts_tfa.css" crc="61064258" ref="tfa"/>
+    <file name="logos.css" crc="3957585647" ref="logos"/>
+    <file name="gnc.css" crc="4181101547" ref="gnc"/>
+    <file name="iefonts_gnc.css" crc="3999908107" ref="gnc"/>
+    <file name="iefonts_volt.css" crc="107846786" ref="volt"/>
+    <file name="iefonts_dpi.css" crc="3936383755" ref="dpi"/>
+    <file name="iefonts_logos.css" crc="247936252" ref="logos"/>
+    <file name="life-in-color.css" crc="4263734740" ref="life-in-color"/>
+    <file name="iefonts_life-in-color.css" crc="225682803" ref="life-in-color"/>
+  </folder>
+  <folder name="assets">
+    <file name="cameron_bolden_resume.pdf" crc="224292318" mt="1418943278000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:experience:contact:logos:tfa:dpi:volt:uk-vs-uw:gnc:zaha-hadid:nashua:life-in-color"/>
+    <file name="museutils.js" crc="3865766194" ref="index:about:experience:contact:logos:tfa:dpi:volt:uk-vs-uw:gnc:zaha-hadid:nashua:life-in-color"/>
+    <file name="pie.js" crc="3827607177" ref="index:volt:gnc"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:about:experience:contact:logos:tfa:dpi:volt:uk-vs-uw:gnc:zaha-hadid:nashua:life-in-color"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:about:experience:contact:logos:tfa:dpi:volt:uk-vs-uw:gnc:zaha-hadid:nashua:life-in-color"/>
+    <file name="webpro.js" crc="3903299128" ref="index:volt:gnc"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index:volt:gnc"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index:volt:gnc"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index:volt:gnc"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:about:experience:contact:logos:tfa:dpi:volt:uk-vs-uw:gnc:zaha-hadid:nashua:life-in-color"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:volt:gnc"/>
+    <file name="loading.gif" crc="3815509949" ref="index:volt:gnc"/>
+    <file name="zahasep.jpg" crc="123398339" ref="zaha-hadid"/>
+    <file name="openingzh.jpg" crc="4260831923" ref="zaha-hadid"/>
+    <file name="openingzh477x234.jpg" crc="67681760" ref="index"/>
+    <file name="layering1.jpg" crc="3852410527" ref="zaha-hadid"/>
+    <file name="insidezh.jpg" crc="234083373" ref="zaha-hadid"/>
+    <file name="insidezh478x234.jpg" crc="68148323" ref="index"/>
+    <file name="amplify.jpg" crc="3768360332" ref="logos"/>
+    <file name="ukvsuw.jpg" crc="4024656457" ref="index"/>
+    <file name="ancient.jpg" crc="89310136" ref="logos"/>
+    <file name="540416_10150676728392686_1141291388_n.jpg" crc="3919283549" ref="about"/>
+    <file name="vita_03.png" crc="4290195714" ref="index:gnc"/>
+    <file name="project1-3.jpg" crc="297507450" ref="index"/>
+    <file name="cb-logo.png" crc="3819336946" ref="about:experience:contact:index:logos:tfa:dpi:volt:uk-vs-uw:gnc:zaha-hadid:nashua:life-in-color"/>
+    <file name="skills.png" crc="3960750528" ref="experience"/>
+    <file name="untitled-2.jpg" crc="3961504705" ref="index"/>
+    <file name="u4294-grad.png" crc="4059692274" ref="index"/>
+    <file name="stone-mountain416x276.png" crc="244764858" ref="index"/>
+    <file name="wm416x276.png" crc="432830367" ref="index"/>
+    <file name="38lmtd416x276.png" crc="368286483" ref="index"/>
+    <file name="slider_prev_normal.jpg" crc="4078385197" ref="index"/>
+    <file name="slider_prev_over.jpg" crc="278080979" ref="index"/>
+    <file name="slider_next_normal.jpg" crc="4117652398" ref="index"/>
+    <file name="slider_next_over.jpg" crc="524964065" ref="index"/>
+    <file name="tfa_ga_250x250.gif" crc="4230304010" ref="index"/>
+    <file name="tfa-twitter-banners-da-2688x275.jpg" crc="3945355811" ref="index"/>
+    <file name="tfa_ga_336x280.gif" crc="4173819286" ref="index:tfa"/>
+    <file name="u3921-r-grad.png" crc="71596421" ref="index"/>
+    <file name="dpi_mobile_320.jpg" crc="153279244" ref="index:dpi"/>
+    <file name="dpi_dm_320.jpg" crc="4153725935" ref="index:dpi"/>
+    <file name="dpi_remark_320.jpg" crc="294177630" ref="index:dpi"/>
+    <file name="project1-4.jpg" crc="4012061664" ref="index:volt"/>
+    <file name="project1-1.jpg" crc="3912211823" ref="index:volt:gnc"/>
+    <file name="zahasep416x500.jpg" crc="3874893872" ref="index"/>
+    <file name="planksgivingv2446x275.jpg" crc="3780989300" ref="index"/>
+    <file name="twittersale_shake-pudding.jpg" crc="88222882" ref="index"/>
+    <file name="twittersale_top10688x275.jpg" crc="248519503" ref="index"/>
+    <file name="stone-mountain.png" crc="4274414363" ref="logos"/>
+    <file name="38lmtd.png" crc="3941857213" ref="logos"/>
+    <file name="wm.png" crc="4034460646" ref="logos"/>
+    <file name="red-racoon.jpg" crc="517655763" ref="logos"/>
+    <file name="cb.jpg" crc="4192846868" ref="logos"/>
+    <file name="relationkits.jpg" crc="4071473201" ref="logos"/>
+    <file name="tfa_320x100.gif" crc="3893572225" ref="tfa"/>
+    <file name="tfa_320x50.gif" crc="40676906" ref="tfa"/>
+    <file name="tfa_336x280.gif" crc="347706885" ref="tfa"/>
+    <file name="tfa468x60.gif" crc="3798281416" ref="tfa"/>
+    <file name="tfa_250x250.gif" crc="38724484" ref="tfa"/>
+    <file name="tfa_200x200.gif" crc="125990713" ref="tfa"/>
+    <file name="tfa_160x600.gif" crc="4022513231" ref="tfa"/>
+    <file name="tfa_300x250.gif" crc="267737590" ref="tfa"/>
+    <file name="tfa-twitter-banners-da-2.jpg" crc="49828980" ref="tfa"/>
+    <file name="tfa_120x600.gif" crc="3760218636" ref="tfa"/>
+    <file name="tfa_ga_120x600.gif" crc="331078514" ref="tfa"/>
+    <file name="dpi_web_320.jpg" crc="4276611635" ref="dpi"/>
+    <file name="dpi_sm_320.jpg" crc="426097921" ref="dpi"/>
+    <file name="project1-5.jpg" crc="4021494150" ref="volt"/>
+    <file name="ukvsuw2.jpg" crc="140305666" ref="uk-vs-uw"/>
+    <file name="project2-5.jpg" crc="492033282" ref="gnc"/>
+    <file name="project2-3.jpg" crc="4177344159" ref="gnc"/>
+    <file name="planksgivingv2.jpg" crc="321145825" ref="nashua"/>
+    <file name="twittersale_top10.jpg" crc="455030675" ref="nashua"/>
+    <file name="nashuatwittersale.jpg" crc="479484879" ref="nashua"/>
+    <file name="lic416x573.jpg" crc="4226766743" ref="index"/>
+    <file name="ar.jpg" crc="4135315921" ref="index"/>
+    <file name="lic.jpg" crc="465458694" ref="life-in-color"/>
+  </folder>
+  <file name="index.html" crc="3917896202" mt="1419011005774" redirect="true"/>
+  <file name="about.html" crc="324281743" mt="1419011005734" redirect="true"/>
+  <file name="experience.html" crc="299681823" mt="1419011005746" redirect="true"/>
+  <file name="contact.html" crc="4131897100" mt="1419011005763" redirect="true"/>
+  <file name="logos.html" crc="452268218" mt="1419011005788" redirect="true"/>
+  <file name="tfa.html" crc="413884601" mt="1419011005802" redirect="true"/>
+  <file name="dpi.html" crc="3960473741" mt="1419011005818" redirect="true"/>
+  <file name="volt.html" crc="181020129" mt="1419011005827" redirect="true"/>
+  <file name="uk-vs-uw.html" crc="243518486" mt="1419011005839" redirect="true"/>
+  <file name="gnc.html" crc="501037127" mt="1419011005850" redirect="true"/>
+  <file name="zaha-hadid.html" crc="49781651" mt="1419011005863" redirect="true"/>
+  <file name="nashua.html" crc="318530494" mt="1419011005875" redirect="true"/>
+  <file name="life-in-color.html" crc="4045581474" mt="1419011005884" redirect="true"/>
+</manifest>
